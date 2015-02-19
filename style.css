@@ -1,0 +1,68 @@
+body {
+	background-color: #C3F7FA;
+}
+
+h1 {
+	font-family: Verdana;
+	font-size: 40px;
+	color: #193380;
+	border: 3px solid black;
+	border-radius: 3px;
+	padding: 5px;
+	background-color: #A7BAF2;
+	text-align: center;
+}
+
+p {
+	font-family: Verdana;
+}
+
+#stirfry {
+	width: 300px;
+	float: left;
+	opacity: 0.5;
+}
+
+#stirfry:hover {
+	opacity: 1.0;
+}
+
+#rice {
+	width: 300px;
+	float: left;
+	opacity: 0.5;
+
+}
+#rice:hover {
+	opacity: 1.0;
+}
+
+.ingredients {
+	clear: both;
+	font-family: Verdana;
+	background-color: #A7BAF2;
+	padding: 10px;
+	border-top: 5px solid black;
+}
+
+.instructions {
+	font-family: Verdana;
+	background-color: #A7BAF2;
+	padding: 10px;
+	border-bottom: 5px solid black;
+}
+
+#whale {
+	width: 600px;
+	float: left;
+	margin-top: 10px;
+}
+
+#link {
+	clear: both;
+	padding-bottom: 50px;
+}
+
+img {
+	border-radius: 10px;
+}
